@@ -20,7 +20,7 @@ function Hero() {
       </div>
 
       <div className="h-screen w-full dark:bg-black-100 bg-white  
-      dark:bg-grid-white/[0.3] bg-grid-black/[0.2]  flex items-center justify-center absolute top-0 left-0">
+      dark:bg-grid-white/[0.1] bg-grid-black/[0.2]  flex items-center justify-center absolute top-0 left-0">
       <div className="absolute pointer-events-none inset-0 flex items-center justify-center  dark:bg-black-100 bg-white [mask-image:radial-gradient(ellipse_at_center,transparent_20%,black)]" />
       </div>
 
@@ -31,9 +31,9 @@ function Hero() {
           </h2>
           <TextGenerateEffect
           className="text-center text-[40px] md:text-5xl lg:text-6xl"
-          words="Transforming Consepts Into Seamles User Experiences"/>
+          words="Lets Turn Coffee Into Code Together."/>
 
-          <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
+          <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl text-blue-200">
             Hi, I'm Thilina Perera, Software Developer Based On Sri Lanka.
           </p>
           <a href="#about">
